@@ -7,6 +7,7 @@ function Portfolio()
                 <header>
                     <h1>Portfolio</h1>
                 </header>
+                <p>Refresh page to see projects</p>
                 <div id="changeMe" className="projects">
                     <div className="content">
                         <p className="project-load"></p>
